@@ -1,4 +1,4 @@
-# 🧠 Pentest - Diário de Estudos
+<h1 align="center">Derick Vergotti</h1>
 
 Este repositório contém minhas anotações, exercícios, writeups e ferramentas que estou utilizando na minha jornada de aprendizado em Pentest. Todo o conteúdo é voltado para fins **educacionais e éticos**.
 
