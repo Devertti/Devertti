@@ -31,7 +31,3 @@ Este repositório serve como base de conhecimento técnico, concentrando writeup
 - `labs/` – Writeups de labs do TryHackMe, HackTheBox, VulnHub
 - `cheatsheets/` – Tabelas rápidas de consulta
 - `scripts/` – Scripts que criei ou adaptei para práticas
-
-## Aviso
-
-Este repositório é apenas para estudo. Não utilize essas técnicas em ambientes reais sem autorização explícita.
