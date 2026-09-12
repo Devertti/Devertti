@@ -1,6 +1,6 @@
 <h1 align="center">
   Derick Vergotti<br>
-  <sub style="font-size: 20px; font-weight: normal;">Pentester Júnior | Estudante de Segurança Ofensiva</sub>
+   <sub style="font-size: 20px; font-weight: normal;">Pentester | Segurança Ofensiva & Red Team</sub>
 </h1>
 
 <p align="center">
@@ -15,16 +15,16 @@
   </a>
 </p>
 
-🔒 Pentester Júnior com foco em segurança ofensiva e análise de vulnerabilidades. Atualmente em aprimoramento contínuo através de:
+Especialista em Segurança Ofensiva com foco em análise de vulnerabilidades e testes de intrusão. Atuação pautada em:
 
-- 🎯 Laboratórios práticos (THM, HTB, VulnHub)
-- 📚 Estudo de metodologias OWASP e MITRE ATT&CK
-- 🛠️ Desenvolvimento de técnicas de exploração
-- 📝 Documentação de processos e descobertas
+- Execução de laboratórios avançados de exploração (THM, HTB, VulnHub)
+- Implementação de frameworks OWASP e MITRE ATT&CK
+- Desenvolvimento de exploits e automação de segurança
+- Elaboração de relatórios técnicos e documentação de vulnerabilidades
 
-Este repositório contém minhas anotações, exercícios, writeups e ferramentas que estou utilizando na minha jornada de aprendizado em Pentest. Todo o conteúdo é voltado para fins **educacionais e éticos**.
+Este repositório serve como base de conhecimento técnico, concentrando writeups, ferramentas customizadas e metodologias aplicadas em engajamentos de Pentest.
 
-## 📂 Estrutura
+## Estrutura
 
 - `metodologia/` – Fases do Pentest, OWASP, MITRE
 - `ferramentas/` – Comandos, exemplos e dicas de uso de ferramentas
@@ -32,6 +32,6 @@ Este repositório contém minhas anotações, exercícios, writeups e ferramenta
 - `cheatsheets/` – Tabelas rápidas de consulta
 - `scripts/` – Scripts que criei ou adaptei para práticas
 
-## ⚠️ Aviso
+## Aviso
 
-⚠️ Este repositório é apenas para estudo. Não utilize essas técnicas em ambientes reais sem autorização explícita.
+Este repositório é apenas para estudo. Não utilize essas técnicas em ambientes reais sem autorização explícita.
